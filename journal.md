@@ -12,5 +12,6 @@ Our measurements ser out to add to this body of knowledge using Mass Spectromete
 #Simulations
 As the model shows that the Boeing is shit.
 
-Yichao shabi
+#Methodology
+We used a Tof-AMS to measure aerosol mass and composition(Smith et al 1998).
 
