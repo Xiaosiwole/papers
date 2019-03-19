@@ -2,7 +2,7 @@
 Measurements of biomass burning aerosol over West Africa
 
 # Authors
-Yichao Yao
+Yichao Yao, John Smith
 
 # Introduction
 BBOA are important for the radiative effect, but the magnitude and even direction are unclear. see Haywood et al (2000).
