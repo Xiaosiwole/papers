@@ -3,7 +3,8 @@ Measurements of biomass burning aerosol over West Africa
 Emphasis aircraft
 
 # Authors
-Yichao Yao, John Smith
+Yichao Yao, University of Manchester
+John Smith, University of Manchester
 
 # Introduction
 BBOA are important for the radiative effect, but the magnitude and even direction are unclear. see Haywood et al (2000).
@@ -22,4 +23,4 @@ Hahaha
 Add a figure into the paper
 
 #Conclusions
-We did some science. It was great. We found that Ziyu is Shabi.
+We did some science. It was great.
