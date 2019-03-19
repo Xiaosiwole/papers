@@ -1,2 +1,5 @@
 Haywood et al, 2000
 Measurements of rediative forcing from BBOA over the Sahel.
+
+Allan et al, 2001
+Seminal paper on Aerosol Mass Specrometer.
