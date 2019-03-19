@@ -23,4 +23,4 @@ Hahaha
 Add a figure into the paper
 
 #Conclusions
-We did some science. It was great.
+We did some science. It was shit!
