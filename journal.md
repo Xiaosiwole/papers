@@ -1,5 +1,6 @@
 # Title
 Measurements of biomass burning aerosol over West Africa
+Emphasis aircraft
 
 # Authors
 Yichao Yao
